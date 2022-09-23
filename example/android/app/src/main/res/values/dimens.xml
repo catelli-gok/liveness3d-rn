@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="font_size_xxxs">12sp</dimen>
+    <dimen name="font_size_xxs">14sp</dimen>
+    <dimen name="font_size_xs">16sp</dimen>
+    <dimen name="font_size_sm">20sp</dimen>
+    <dimen name="font_size_md">24sp</dimen>
+    <dimen name="font_size_lg">32sp</dimen>
+    <dimen name="font_size_xl">40sp</dimen>
+    <dimen name="font_size_xxl">48sp</dimen>
+    <dimen name="font_size_xxxl">64sp</dimen>
+    <dimen name="font_size_display">80sp</dimen>
+    <dimen name="font_size_giant">96sp</dimen>
+
+    <dimen name="border_radius_none">0dp</dimen>
+    <dimen name="border_radius_sm">1dp</dimen>
+    <dimen name="border_radius_md">1dp</dimen>
+    <dimen name="border_radius_lg">1dp</dimen>
+
+    <dimen name="border_width_none">0dp</dimen>
+    <dimen name="border_width_hairline">1dp</dimen>
+    <dimen name="border_width_thin">2dp</dimen>
+    <dimen name="border_width_thick">4dp</dimen>
+    <dimen name="border_width_heavy">8dp</dimen>
+
+</resources>

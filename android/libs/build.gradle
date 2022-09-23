@@ -1,0 +1,3 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('liveness3d-release.aar'))
+artifacts.add("default", file('facetec-sdk.aar'))

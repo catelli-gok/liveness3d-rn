@@ -1,0 +1,2 @@
+//include ':android', ':facetec-sdk-9.4.16', ':liveness3d-release'
+//rootProject.name = "android"

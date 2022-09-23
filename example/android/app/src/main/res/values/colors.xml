@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="oiti_green">#a3a2f4</color>
+    <color name="oiti_green_30">#4d4bb75f</color>
+    <color name="dark_text">#363636</color>
+    <color name="doc_green">#a5cd38</color>
+
+    <color name="brand_color_primary_pure">#A5CD39</color>
+    <color name="brand_color_primary_light">#DDE28A</color>
+    <color name="brand_color_primary_medium">#B7C72C</color>
+    <color name="brand_color_primary_dark">#93A229</color>
+
+    <color name="brand_color_secondary_pure">#3CB994</color>
+    <color name="brand_color_secondary_light">#58D0AC</color>
+    <color name="brand_color_secondary_medium">#36A684</color>
+    <color name="brand_color_secondary_dark">#348D73</color>
+
+    <color name="highlight_color_pure">#6443E1</color>
+    <color name="highlight_color_light">#8666FF</color>
+    <color name="highlight_color_medium">#5338BA</color>
+    <color name="highlight_color_dark">#422C94</color>
+
+    <color name="neutral_color_low_pure">#1E1E1E</color>
+    <color name="neutral_color_low_light">#A3A3A3</color>
+    <color name="neutral_color_low_medium">#666666</color>
+    <color name="neutral_color_low_dark">#52575D</color>
+
+    <color name="neutral_color_high_pure">#FFFFFF</color>
+    <color name="neutral_color_high_pure_24">#3DFFFFFF</color>
+    <color name="neutral_color_high_light">#F5F5F5</color>
+    <color name="neutral_color_high_medium">#E0E0E0</color>
+    <color name="neutral_color_high_dark">#CCCCCC</color>
+
+    <color name="feedback_color_warning_pure">#DD0101</color>
+    <color name="feedback_color_warning_light">#F7638B</color>
+    <color name="feedback_color_warning_medium">#C40135</color>
+    <color name="feedback_color_warning_dark">#910127</color>
+
+    <color name="feedback_color_helper_pure">#0070D8</color>
+    <color name="feedback_color_helper_light">#4DA9FF</color>
+    <color name="feedback_color_helper_medium">#005DB2</color>
+    <color name="feedback_color_helper_dark">#00417D</color>
+
+    <color name="feedback_color_success_pure">#05D758</color>
+    <color name="feedback_color_success_light">#40C957</color>
+    <color name="feedback_color_success_medium">#166323</color>
+    <color name="feedback_color_success_dark">#0E4217</color>
+
+    <color name="instructions_gradient_start">#a3a2f4</color>
+    <color name="instructions_gradient_end">#a3a2f4</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="background">#1E1E1E</color>
+    <color name="brand_color_primary">#a3a2f4</color>
+    <color name="brand_color_secondary">#1648CD</color>
+    <color name="black">#000000</color>
+</resources>

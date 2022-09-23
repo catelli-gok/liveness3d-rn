@@ -1,0 +1,6 @@
+framework module Pods_Liveness3dReactNative {
+  umbrella header "Pods-Liveness3dReactNative-umbrella.h"
+
+  export *
+  module * { export * }
+}
